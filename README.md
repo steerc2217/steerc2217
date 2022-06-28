@@ -19,7 +19,7 @@
   <a href="https://github.com/steerc2217/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=steerc2217&count_private=true&show_icons=true&custom_title=Naji's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=steerc2217&count_private=true&show_icons=true&custom_title=SteerC's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
@@ -33,9 +33,9 @@
 
 
 - 📫 How to reach me </br>
-    Email: be1512t6@gmail.com or jn.steerc2217@gmail.com </br>
-    Skype: live:.cid.b273fe3370c1d411 </br>
-    Discord: NAJI#4765 </br>
+    Email: skysteerc@gmail.com</br>
+    Skype:  </br>
+    Telegram: LaoHu_2217 </br>
     
     
 <h3 align="left">Languages and Tools:</h3>
