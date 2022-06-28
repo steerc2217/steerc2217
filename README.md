@@ -35,7 +35,7 @@
 - 📫 How to reach me </br>
     Email: skysteerc@gmail.com</br>
     Skype: live:.cid.e5108135e0798fa1</br>
-    Telegram: LaoHu_2217 </br>
+    Telegram: steerc2217 </br>
     
     
 <h3 align="left">Languages and Tools:</h3>
