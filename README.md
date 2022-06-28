@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am a Senior Blockchain & Full stack developer. 👋
 
 <!--
 **steerc2217/steerc2217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
