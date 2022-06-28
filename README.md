@@ -1,39 +1,39 @@
-<h1 align="center">Hi 👋, I'm a Blockchain & Web Full Stack developer.</h1>
+<h1 align="center">Hi 👋, I'm a Senior Blockchain & Web Full Stack developer.</h1>
 
 <p align="center">
   <a href="#">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/naji2329"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/steerc2217"/></a>
   <a href="#">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/naji2329?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/steerc2217?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="#">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=naji2329&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=st&style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/naji2329/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NAJI2329" src="https://github-readme-streak-stats.herokuapp.com/?user=naji2329&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/steerc2217/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="steerc2217" src="https://github-readme-streak-stats.herokuapp.com/?user=steerc2217&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/naji2329/github-readme-stats">
+  <a href="https://github.com/steerc2217/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=naji2329&count_private=true&show_icons=true&custom_title=Naji's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=steerc2217&count_private=true&show_icons=true&custom_title=Naji's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
-  <a href="https://github.com/naji2329/github-readme-stats">
+  <a href="https://github.com/steerc2217/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=naji2329&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=steerc2217&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
 
 
 
 - 📫 How to reach me </br>
-    Email: be1512t6@gmail.com or jn.naji2329@gmail.com </br>
+    Email: be1512t6@gmail.com or jn.steerc2217@gmail.com </br>
     Skype: live:.cid.b273fe3370c1d411 </br>
     Discord: NAJI#4765 </br>
     
